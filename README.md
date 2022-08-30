@@ -41,7 +41,7 @@ Any type of servers based on linux. Web services nginx, apache2, mariadb.. and o
 Google services too like:
 Google search console, Google analitycs, Google tagmanager, Google merchant, Google ads, Google adsense,
 
-Medium / Heigh at SEO and UX / UI experience when projecting websites.
+Medium / Height at SEO and UX / UI experience when projecting websites.
 
 
 
