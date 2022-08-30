@@ -6,9 +6,14 @@
 
 Visit our site to know more about us: https://seopower.pl/
 
+Languages: PHP, HTML5, CSS3, JS (ES5-ES6) (Jquery), IPS, Python(low)..
+Framework: Laravel (medium), Symfony (medium), Bootstrap(good), Materialize(good) ....
+
+
 
 
 My projects:
+(wordpress and plugins on that)
 
 https://lakiernia-olsztyn.pl/
 
@@ -17,7 +22,7 @@ https://atzservice.pl/
 https://www.totaleko.pl/
 
 
-Working on:
+Working on every day:
 https://www.audiostereo.pl/
 
 https://mada.pl/
@@ -46,6 +51,9 @@ Medium / Height at SEO and UX / UI experience when projecting websites.
 
 
 My last thing that i worked on is:
+
+
+http://ranczosanna.pl/
 
 https://biurowemetalowe.pl/
 
