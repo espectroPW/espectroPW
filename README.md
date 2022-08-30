@@ -8,20 +8,28 @@
 My projects:
 
 https://lakiernia-olsztyn.pl/
+
 https://atzservice.pl/
+
 https://www.totaleko.pl/
+
 
 Working on:
 https://www.audiostereo.pl/
+
 https://mada.pl/
 
 
 some fixes and improvements on:
 
 http://wmzpn.pl/?page_id=1625&league=48158&display=table
-https://szok.mzpnkrakow.pl/rozgrywki/?league=42576\
+
+https://szok.mzpnkrakow.pl/rozgrywki/?league=42576
+
 https://www.ahoj.pl/
+
 https://northman.pl/
+
 
 
 Also migrate so many services and have experience with lxc / lxd containers and all of that systems (ubuntu, debian, fedora..)
@@ -37,7 +45,9 @@ Medium / Heigh at SEO and UX / UI experience when projecting websites.
 My last thing that i worked on is:
 
 https://biurowemetalowe.pl/
+
 https://cezasglob.pl/
+
 
 
 
