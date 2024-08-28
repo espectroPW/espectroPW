@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **wmzpn.pl**
 
-- 🌱 I’m currently learning **Laravel, Symfony, nodeJS, expressJS, mongoDB...**
+- 🌱 I’m currently learning **Laravel, React.js, Symfony, nodeJS, expressJS, mongoDB...**
 
 - 👯 I’m looking to collaborate on **Any kind of php framework**
 
