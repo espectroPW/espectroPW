@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any kind of php framework**
 
-- 📫 How to reach me **admin@espectro.pw**
+- 📫 How to reach me **admin@espectro.pw** **kontakt@jurskitech.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
