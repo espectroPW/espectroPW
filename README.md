@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espectropw&label=Profile%20views&color=0e75b6&style=flat" alt="espectropw" /> </p>
 
-- 🔭 I’m currently working on **4keepers.com** **piwnicagospodarza.pl**
+- 🔭 I’m currently working on **4keepers.com** **piwnicagospodarza.pl** **activepieces**
 
-- 🌱 I’m currently learning **Laravel, React.js, Symfony, nodeJS, expressJS, mongoDB...**
+- 🌱 I’m currently learning **Laravel, React Native, Symfony, nodeJS, expressJS, mongoDB...**
 
 - 👯 I’m looking to collaborate on **Any kind of php framework**
 
